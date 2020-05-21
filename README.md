@@ -79,3 +79,4 @@ What is the maximum (best) story possible? What's the minimum (fallback) story i
 
 9) To publish, go to the settings of your GitHub repo, scroll down to GitHub Pages, and configure the source to the master branch.
    ![GitHub Pages](assets/ghpages.png)
+# final-project
